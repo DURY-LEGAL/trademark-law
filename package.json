@@ -1,0 +1,25 @@
+{
+  "name": "trademark-law",
+  "version": "0.1.0",
+  "description": "Trademark law toolkit - Legal analysis and compliance tools. Powered by DURY LEGAL.",
+  "keywords": [
+    "trademark",
+    "law",
+    "legal",
+    "compliance",
+    "ip",
+    "legal-tech",
+    "dury-legal"
+  ],
+  "author": "DURY LEGAL Rechtsanwaelte <info@dury.de> (https://www.dury.de)",
+  "license": "MIT",
+  "homepage": "https://www.dury.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DURY-LEGAL/trademark-law.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests coming soon'"
+  }
+}
